@@ -1,5 +1,5 @@
 Learning React.js
 
-This is a suuuuper simple ap, a counter that increases, decreases or resets the fiven number.
+This is a suuuuper simple app, a counter that increases, decreases or resets the given number.
 
-Goal: learn props and usestate
+Goal: learn props and useState

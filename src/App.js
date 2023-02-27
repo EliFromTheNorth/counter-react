@@ -21,7 +21,7 @@ const App = () => {
   }
   
   return (
-      <div>
+      <div className="counter">
         <h1>Counter</h1>
         <h2>{value}</h2>
         <DecreaseButton decrease={decreaseOne}/>
